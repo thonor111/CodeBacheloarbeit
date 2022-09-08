@@ -1,0 +1,10 @@
+Correlation: 0.08086588107568564, weighted correlation: 0.07481583283506675, phi_b: 0.7317960809515448
+Correlation: 0.834878860619878, weighted correlation: 0.45500489353168005, phi_b: 0.025967757564605454
+Correlation: 0.3864180483882139, weighted correlation: 0.27871683352466875, phi_b: 0.00566729222415252
+Correlation: 0.8199105426807859, weighted correlation: 0.45052244242347855, phi_b: 0.011627129734754105
+Correlation: 0.7825077443262525, weighted correlation: 0.4389926197050115, phi_b: 0.2474678616189483
+Correlation: 0.9671856643363869, weighted correlation: 0.4916595733034983, phi_b: 0.0015990605842003403
+Successfully created the directory C:\Users\tnort\Documents\Uni\Semester6\Bacheloarbeit\CodeLaura\Covid_LKOS\Plots\correlation_analysis 
+[[ 1.          0.98991472 -0.75702357]
+ [ 0.98991472  1.         -0.81894996]
+ [-0.75702357 -0.81894996  1.        ]]
